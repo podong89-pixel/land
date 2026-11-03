@@ -1,0 +1,10 @@
+.env
+.venv/
+data/*.db
+__pycache__/
+*.pyc
+.pytest_cache/
+~$*
+~WRL*.tmp
+.playwright-mcp/
+tests/e2e/.run/
