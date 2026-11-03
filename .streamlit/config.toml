@@ -1,0 +1,15 @@
+[theme]
+base = "light"
+primaryColor = "#1F4E79"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F4F6F9"
+textColor = "#1B2430"
+borderColor = "#E3E7ED"
+baseRadius = "0.5rem"
+showWidgetBorder = true
+
+[server]
+port = 8502
+
+[browser]
+gatherUsageStats = false
