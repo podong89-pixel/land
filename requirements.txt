@@ -1,0 +1,12 @@
+streamlit>=1.40
+openai>=1.50
+python-dotenv>=1.0
+pydantic>=2.7
+folium>=0.17
+streamlit-folium>=0.22
+geopy>=2.4
+plotly>=5.22
+pandas>=2.2
+pytest>=8.0
+playwright>=1.45
+pytest-playwright>=0.5
